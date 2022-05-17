@@ -1,0 +1,21 @@
+{
+    "name": "IP Finder",
+    "description": "Flask Project To Track down anyone's IP Address From visiting your site",
+    "repository": "https://github.com/pradeep15a/IP-Tracker",
+    "logo": "https://user-images.githubusercontent.com/80315129/168713538-5dd9d7e9-471d-41df-b90a-603b9be54c6c.jpg",
+    "keywords": ["Python", "Flask", "TG", "Telegram", "API", "IP", "Scrap", "Redirect"],
+    "env": {
+        "OWNER_ID": {
+          "description": "Enter your Telegram user id.",
+          "value": ""
+        },
+        "BOT_API": {
+          "description": "Enter your Bot API which you got from @botfather",
+          "value": ""
+        },
+        "REDIRECT_URL": {
+          "description": "Enter the URL which you want the user to redirect in. ( Use https:// or https:// else won't work )",
+          "value": "https://portfolio-pradeep.vercel.app/#/"
+        }
+      }
+  }
