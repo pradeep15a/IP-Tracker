@@ -33,7 +33,7 @@ Don't abuse it, It's just for fun and educational purpose.
 ### Deployments :-	
 
 ### Heroku :-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/HeimanPictures/IP-Finder)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/pradeep15a/IP-Tracker)
 
 
 ## Credits 
