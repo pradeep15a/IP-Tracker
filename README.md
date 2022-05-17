@@ -30,7 +30,10 @@ Don't abuse it, It's just for fun and educational purpose.
 `REDIRECT_URL` :- Enter any website URL with https:// or https:// to get redirected from that visit. You can use your youtube channel ot Telegram channel or something like that.
 
 ---
-	
+### Deployments :-	
+
+### Heroku :-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/HeimanPictures/IP-Finder)
 
 
 ## Credits 
